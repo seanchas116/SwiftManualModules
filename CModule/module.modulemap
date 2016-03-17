@@ -1,0 +1,4 @@
+module CModule [system] {
+    header "CModule.h"
+    export *
+}
